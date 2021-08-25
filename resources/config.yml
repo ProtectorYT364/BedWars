@@ -1,0 +1,2 @@
+# for who want to wait 3 sec to respawn set this to true
+respawn-delay: false
